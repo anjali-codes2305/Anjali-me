@@ -54,7 +54,7 @@ const Button = ({
 
 Button.defaultProps = {
   title: "Button",
-  link: "https://zonayed.me",
+  //link: "https://zonayed.me",
   target: "",
   marginTop: 0,
   marginBottom: 0,
@@ -62,7 +62,7 @@ Button.defaultProps = {
   marginRight: 0,
   color: "rgba(255, 255, 255, 0.85)",
   bgColor: "transparent",
-  borderColor: "#00cf5d",
+  borderColor: "#f7c64aff",
 }
 
 export { Button }

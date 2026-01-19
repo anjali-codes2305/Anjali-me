@@ -21,30 +21,22 @@ export const Title = ({ title, social, side, height }) => {
             <a
               target="_blank"
               rel="noopener noreferrer"
-              href="https://github.com/zonayedpca"
+              href="https://github.com/anjali-codes2305"
             >
               <FaGithub />
             </a>
           </li>
+          
           <li>
             <a
               target="_blank"
               rel="noopener noreferrer"
-              href="https://codepen.io/zonayedpca"
-            >
-              <FaCodepen />
-            </a>
-          </li>
-          <li>
-            <a
-              target="_blank"
-              rel="noopener noreferrer"
-              href="https://www.linkedin.com/in/zonayedpca"
+              href="https://www.linkedin.com/in/anjali230705/"
             >
               <FaLinkedinIn />
             </a>
           </li>
-          <li>
+          {/* <li>
             <a
               target="_blank"
               rel="noopener noreferrer"
@@ -52,12 +44,12 @@ export const Title = ({ title, social, side, height }) => {
             >
               <FaMediumM />
             </a>
-          </li>
+          </li> */}
           <li>
             <a
               target="_blank"
               rel="noopener noreferrer"
-              href="https://twitter.com/zonayedpca"
+              href="https://twitter.com/anjali56962"
             >
               <FaTwitter />
             </a>

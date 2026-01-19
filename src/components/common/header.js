@@ -83,20 +83,14 @@ const Header = () => {
               </a>
             </li>
             <li>
-              <a
-                target="__blank"
-                rel="noopener noreferrer"
-                href="https://with.zonayed.me"
-              >
-                Blog
-              </a>
+              
             </li>
             <li>
               <a
                 className="btn-download"
                 target="_blank"
                 rel="noopener noreferrer"
-                href="https://github.com/zonayedpca/zonayed.me/raw/master/src/data/file/MyResume.pdf"
+                href="https://github.com/anjali-codes2305/Portfolio/raw/master/src/data/file/MyResume.pdf"
               >
                 Resume
               </a>

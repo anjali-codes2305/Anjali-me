@@ -14,20 +14,13 @@ const About = () => {
         <div className="about">
           <div className="about-details">
             <p>
-              Hello! I'm Zonayed Ahmed, a passionate software engineer. I
-              develop web applications, mobile applications, and desktop
-              applications. My core skill is based on JavaScript and I love to
-              do most of the things using JavaScript. I love to make the web
-              more open to the world. I have graduated with a bachelor's degree
-              in Computer Science Engineering from Chandigarh University at
-              Punjab, India in 2020. I am available for any kind of job
-              opportunity that suits my interests.
+              Hello! I’m Anjali Agarwal, an aspiring Software Engineer and Full-Stack Developer passionate about building scalable, user-focused digital solutions. I work with Java, C++, JavaScript, and the MERN stack, transforming ideas into clean applications. I am pursuing B.Tech in Computer Science Engineering and have earned recognition as a Samsung Solve for Tomorrow 2025 Semifinalist and Top 31 finalist in Tata Innovent through hackathons, programs, and internships that strengthened leadership, problem-solving, confidence, teamwork, creativity, and real-world impact.
             </p>
             <div className="about-action">
               <Button
-                link="https://github.com/zonayedpca/zonayed.me/raw/master/src/data/file/MyResume.pdf"
+                link="https://github.com/anjali-codes2305/Portfolio/raw/master/src/data/file/MyResume.pdf"
                 target="_blank"
-                bgColor="#00cf5d"
+                bgColor="#f7c64aff"
                 title="Get Resume"
               />
               <Button clickEvent link="#skill" ml="15px" title="My Skills" />

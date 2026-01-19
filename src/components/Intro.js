@@ -12,18 +12,18 @@ const Intro = () => {
         <div className="intro">
           <div className="intro-text">
             <p>Hello! I am</p>
-            <h1>Zonayed Ahmed</h1>
-            <h3>Full Stack Developer</h3>
+            <h1>Anjali Agarwal</h1>
+            <h2>Software Engineer</h2>
             <ul>
-              <li>Web Developer</li>
-              <li>Programmer</li>
-              <li>Software Engineer</li>
+              <li>Problem Solver</li>
+              <li>Confident Speaker</li>
+              <li>Critical Thinker</li>
             </ul>
             <div className="action">
               <Button
-                link="https://github.com/zonayedpca/zonayed.me/raw/master/src/data/file/MyResume.pdf"
+                link="https://github.com/anjali-codes2305/Portfolio/raw/master/src/data/file/MyResume.pdf"
                 target="__blank"
-                bgColor="#00cf5d"
+                bgColor="#f7c64aff"
                 title="Get Resume"
               />
               <Button clickEvent link="#about" ml="15px" title="About Me" />
