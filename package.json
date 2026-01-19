@@ -27,7 +27,7 @@
   ],
   "license": "MIT",
   "scripts": {
-    "build": "gatsby build",
+    "build": "NODE_OPTIONS=--openssl-legacy-provider gatsby build",
     "develop": "gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
     "start": "npm run develop",
@@ -36,9 +36,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/anjali-codes2305"
+    "url": "https://github.com/anjali-codes2305/Anjali-me.git"
   },
   "bugs": {
-    "url": "https://github.com/anjali-codes2305/Portfolio/issues"
+    "url": "https://github.com/anjali-codes2305/Anjali-me/issues"
   }
 }
