@@ -67,3 +67,7 @@ To run the portfolio locally:
 ```bash
 git clone https://github.com/anjali-codes2305/your-repository-name.git
 
+I am open to internship opportunities, collaborative projects, and roles that encourage continuous learning and professional growth.  
+I welcome meaningful discussions around technology, software development, and innovation, and I am always interested in contributing to impactful engineering work.
+
+
