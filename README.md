@@ -2,7 +2,7 @@
 
 This repository contains the source code for my **personal portfolio website**, designed to present my skills, projects, experience, and professional journey as an aspiring **Software Engineer and Full-Stack Developer**.
 
-🔗 Live Website: [Add your deployed link here]  
+🔗 Live Website: https://anjali-me-tau.vercel.app/
 🔗 GitHub: https://github.com/anjali-codes2305  
 🔗 LinkedIn: https://www.linkedin.com/in/anjali230705/
 
