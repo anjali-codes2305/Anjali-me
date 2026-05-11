@@ -2,6 +2,50 @@ export const portfolios = {
   Web: [
     {
       type: "featured",
+      name: "CareQueue",
+      image: require("./image/CareQueue.png"),
+      description:
+        "CareQueue is a smart healthcare queue management system designed to tackle inefficiencies in hospital workflows, where patients often wait 90–180 minutes and over 60% report dissatisfaction. The platform enables real-time queue tracking, appointment scheduling, and optimized patient flow management through a centralized interface. It is built to potentially reduce waiting times by 30–40%, improve operational efficiency, and enhance patient experience in high-demand healthcare environments.",
+      demo: "https://carequeue-opal.vercel.app/",
+      source:"https://github.com/anjali-codes2305/CareQueue",
+      tools: ["React", "TypeScript", "Tailwind CSS", "Supabase", "PostgreSQL", "Vercel"],
+    },
+    
+    {
+      type: "featured",
+      name: "Fleet_Flow",
+      image: require("./image/fleet_flow.png"),
+      description:
+        "FleetFlow is a centralized fleet management platform designed to replace inefficient manual processes used by 75–80% of small fleet operators in India. It enables real-time vehicle tracking, driver and trip management, expense monitoring, and multi-department workflow coordination through a unified dashboard. The system is built to optimize operations, potentially reducing idle time by 20–30%, improving asset utilization, and accelerating the digital transformation of small-scale fleet businesses.",
+      demo: "https://fleet-flow-three.vercel.app/login",
+      source:"https://github.com/anjali-codes2305/Fleet_Flow-",
+      tools: ["React", "TypeScript", "Tailwind CSS", "Supabase", "Leaflet", "Vercel"],
+    },
+
+    {
+      type: "featured",
+      name: "QuizIQ",
+      image: require("./image/QuizIQ.png"),
+      description:
+         "QuizIQ is a full-stack smart learning platform built to transform traditional assessments into interactive, data-driven experiences. It enables educators to create customized quizzes while providing students with a gamified environment featuring smart timers, real-time analytics, and automated certification. Designed with scalable architecture and role-based access, the platform can potentially increase student engagement by 40–50% and reduce evaluation time by 30–40%.",
+      demo: "https://quiziq-six.vercel.app/",
+      source: "https://github.com/anjali-codes2305/schoolhouse-quiziq",
+      tools: ["React", "TypeScript", "Tailwind CSS", "Supabase", "PostgreSQL", "Vercel"],
+    },
+
+    {
+      type: "featured",
+      name: "AyojanAI",
+      image: require("./image/QuizIQ.png"),
+      description:
+         "QuizIQ is a full-stack smart learning platform built to transform traditional assessments into interactive, data-driven experiences. It enables educators to create customized quizzes while providing students with a gamified environment featuring smart timers, real-time analytics, and automated certification. Designed with scalable architecture and role-based access, the platform can potentially increase student engagement by 40–50% and reduce evaluation time by 30–40%.",
+      demo: "https://quiziq-six.vercel.app/",
+      source: "https://github.com/anjali-codes2305/schoolhouse-quiziq",
+      tools: ["React", "TypeScript", "Tailwind CSS", "Supabase", "PostgreSQL", "Vercel"],
+    },
+
+    {
+      type: "featured",
       name: "Hogwart_Typing_Trials",
       image: require("./image/hogwarts.png"),
       description:
@@ -19,16 +63,7 @@ export const portfolios = {
       source: "https://github.com/anjali-codes2305/StackIt",
       tools: ["Vite", "json", "Express","MongoDB"],
     },
-    {
-      type: "featured",
-      name: "QuizIQ",
-      image: require("./image/QuizIQ.png"),
-      description:
-        "QuizIQ is an interactive quiz platform designed to make learning engaging through subject-wise quizzes, instant scoring, and a simple, student-friendly interface focused on concept clarity and regular practice.",
-      demo: "https://schoolhouse-quiz-hub.lovable.app/",
-      source: "https://github.com/anjali-codes2305/schoolhouse-quiziq?tab=readme-ov-file",
-      tools: ["Typescript", "MongoDB", "Lovable"],
-    },
+    
     {
       type: "regular",
       name: "ComplaintEase",
