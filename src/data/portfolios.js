@@ -36,13 +36,12 @@ export const portfolios = {
     {
       type: "featured",
       name: "AyojanAI",
-      image: require("./image/QuizIQ.png"),
+      image: require("./image/Ayojan.png"),
       description:
-         "QuizIQ is a full-stack smart learning platform built to transform traditional assessments into interactive, data-driven experiences. It enables educators to create customized quizzes while providing students with a gamified environment featuring smart timers, real-time analytics, and automated certification. Designed with scalable architecture and role-based access, the platform can potentially increase student engagement by 40–50% and reduce evaluation time by 30–40%.",
-      demo: "https://quiziq-six.vercel.app/",
-      source: "https://github.com/anjali-codes2305/schoolhouse-quiziq",
-      tools: ["React", "TypeScript", "Tailwind CSS", "Supabase", "PostgreSQL", "Vercel"],
-    },
+         "AyojanAI is an AI-powered full-stack event management platform that streamlines event planning, organization, and coordination through intelligent automation. Integrated with the Google Gemini API, the platform provides smart event suggestions, AI-assisted planning, secure authentication, and a modern responsive interface to enhance user experience and simplify event management.",
+      demo: "https://ayojan-ai-self.vercel.app//",
+      source: "https://github.com/anjali-codes2305/AyojanAI",
+      tools: ["React.js", "Vite", "Tailwind CSS", "JavaScript", "Node.js", "Express.js", "MongoDB", "Gemini API", "JWT", "Vercel"]
 
     {
       type: "featured",
