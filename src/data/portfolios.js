@@ -42,6 +42,7 @@ export const portfolios = {
       demo: "https://ayojan-ai-self.vercel.app//",
       source: "https://github.com/anjali-codes2305/AyojanAI",
       tools: ["React.js", "Vite", "Tailwind CSS", "JavaScript", "Node.js", "Express.js", "MongoDB", "Gemini API", "JWT", "Vercel"]
+    },
 
     {
       type: "featured",
